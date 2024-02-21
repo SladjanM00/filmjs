@@ -1,0 +1,11 @@
+.movie-card {
+    display: flex;
+    gap: 1rem;
+}
+
+.card {
+  border: 1px solid black;
+  width: 25%;
+  padding: 2rem 0.5rem;
+  background-color: rgb(168, 249, 168);
+}
